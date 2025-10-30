@@ -1,0 +1,5 @@
+{
+  "name": "LMS28",
+  "description": "An online learning platform where users can register, log in, and access various educational courses. The platform features user authentication, course enrollment, progress tracking, and an AI-powered Study Buddy to assist with learning.",
+  "requestFramePermissions": []
+}
